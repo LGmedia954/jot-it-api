@@ -1,6 +1,6 @@
 # Jot It Down Memo App Back End
 
-Front End Repository: https://github.com/LGmedia954/
+Front End Repository: https://github.com/LGmedia954/jot-it-frontend
 
 JavaScript Practice Session. The Front End is built with HTML, CSS, and JavaScript, and communicates with a Back End API of Ruby and Rails.
 
